@@ -1,0 +1,17 @@
+﻿  Source.cpp
+c:\users\tristan\desktop\opengl\mysecondgame\mysecondgame\Source.h(154): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tristan\desktop\opengl\mysecondgame\mysecondgame\Source.h(155): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tristan\desktop\opengl\mysecondgame\mysecondgame\Source.h(252): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tristan\desktop\opengl\mysecondgame\mysecondgame\Source.h(253): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tristan\desktop\opengl\mysecondgame\mysecondgame\Source.h(361): warning C4018: '<': signed/unsigned mismatch
+c:\users\tristan\desktop\opengl\mysecondgame\mysecondgame\Source.h(387): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tristan\desktop\opengl\mysecondgame\mysecondgame\Source.h(388): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Source.cpp(50): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(54): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  2 of 268 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MySecondGame.vcxproj -> C:\Users\Tristan\Desktop\opengl\MySecondGame\Release\MySecondGame.exe
+  MySecondGame.vcxproj -> C:\Users\Tristan\Desktop\opengl\MySecondGame\Release\MySecondGame.pdb (Full PDB)

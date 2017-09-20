@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (MySecondGame.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+c:\users\tristan\desktop\opengl\mysecondgame\mysecondgame\source.h(160): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tristan\desktop\opengl\mysecondgame\mysecondgame\source.h(161): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tristan\desktop\opengl\mysecondgame\mysecondgame\source.h(258): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tristan\desktop\opengl\mysecondgame\mysecondgame\source.h(259): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tristan\desktop\opengl\mysecondgame\mysecondgame\source.h(342): warning C4018: '<': signed/unsigned mismatch
+c:\users\tristan\desktop\opengl\mysecondgame\mysecondgame\source.h(365): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\tristan\desktop\opengl\mysecondgame\mysecondgame\source.h(367): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\tristan\desktop\opengl\mysecondgame\mysecondgame\source.h(402): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tristan\desktop\opengl\mysecondgame\mysecondgame\source.h(403): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tristan\desktop\opengl\mysecondgame\mysecondgame\source.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\tristan\desktop\opengl\mysecondgame\mysecondgame\source.cpp(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\tristan\desktop\opengl\mysecondgame\mysecondgame\source.h(289): warning C4715: 'Event': not all control paths return a value
+  MySecondGame.vcxproj -> C:\Users\Tristan\Desktop\opengl\MySecondGame\Debug\Curator2.0.exe
+  MySecondGame.vcxproj -> C:\Users\Tristan\Desktop\opengl\MySecondGame\Debug\Curator2.0.pdb (Partial PDB)
